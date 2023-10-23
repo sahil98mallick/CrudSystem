@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "wetwete",
+      "email": "raju@gmail.com",
+      "phone": "08637000230",
+      "password": "12345655",
+      "city": "kolkata",
+      "state": "West Bengal",
+      "dob": "2023-04-14",
+      "id": 3
+    },
+    {
+      "name": "Sahil Mallick",
+      "email": "sahilmilega@gmail.com",
+      "phone": "08942865597",
+      "password": "Sahil@123",
+      "city": "Paschim Medinipur",
+      "state": "West Bengal",
+      "dob": "1998-01-01",
+      "id": 4
+    }
+  ]
+}
